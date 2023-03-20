@@ -1,8 +1,9 @@
 # OpenCore config for installing macOS 11 Big Sur on Lenovo Yoga 720-13IKB
+- Opencore Version 0.8.8
+- Testing on 11.7.4
 
 # Credits:
-- [OpenCore](https://github.com/acidanthera/OpenCorePkg) Boot
-- [Lilu.kext](https://github.com/acidanthera/Lilu/releases/latest)
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html)
 
 # What is half working:
